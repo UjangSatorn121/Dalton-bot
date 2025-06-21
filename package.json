@@ -1,0 +1,12 @@
+{
+  "name": "daltongarage",
+  "version": "1.0.0",
+  "description": "Bot Discord Duty Mekanik AOI.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aoi.js": "^6.6.0"
+  }
+}
